@@ -20,5 +20,5 @@ The App is developed using **Thunkable** and uses **Wit.ai** from **Facebook** f
 - Chatbot for Interactive Search Queries
 - Add Social Networking Option
 ### Acknowledgement
-@atomicsyed-99
-@tayo-lee
+- Syed Ishtiyaq Ahmed @atomicsyed-99
+- Jaihari Jaianand @tayo-lee
